@@ -6,3 +6,6 @@ Finding the right way how to calibarte a huion pen has cost me much time and eff
 So, you're probably here because you plugged in your second tablet on hdmi or displayport or whatever and your computer successfully detected your device, 
 but didn't manage to calibrate the pen correctly. This probably happened because two monitors were plugged in and now the tablet tries to span over the whole area 
 of both displays.
+
+Don't panic, there is an easy way to solve this. (Easy as in the linuxkind of easy, meaning typing random commands in the shell)
+
