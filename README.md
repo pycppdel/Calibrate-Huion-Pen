@@ -25,4 +25,4 @@ and DP-4(which is the huion tablet I connected via displayport)
 
 Memorize the shortened name and type in the next command "xinput_calibrator --list"
 
-
+![](https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/Calibrator.png)
