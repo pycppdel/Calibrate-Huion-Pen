@@ -18,5 +18,7 @@ This will probably look like this:
 ![](https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/ol.png)
 
 
-There you can see the detected devices together with their shortened name to the port they're connected to, in this case HDMI-0(which is my standard monitor)
+There you can see the detected devices together with their shortened name to the port they're connected to. 
+
+In this case HDMI-0(which is my standard monitor)
 and DP-4(which is the huion tablet I connected via displayport)
