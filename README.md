@@ -22,3 +22,7 @@ There you can see the detected devices together with their shortened name to the
 
 In this case HDMI-0(which is my standard monitor)
 and DP-4(which is the huion tablet I connected via displayport)
+
+Memorize the shortened name and type in the next command "xinput_calibrator --list"
+
+
