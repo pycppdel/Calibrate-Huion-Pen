@@ -30,3 +30,7 @@ Memorize the shortened name and type in the next command "xinput_calibrator --li
 There you can see the id your pen is connected with, in this case 15.
 
 Now, what you need to do is tell your pen to only use the area of the drawing-tablet to move the mouse across.
+
+The last step is now to do exactly that.
+
+Type in the command "xinput map-to-output {PEN_ID} {DISPLAY_NAME}"
