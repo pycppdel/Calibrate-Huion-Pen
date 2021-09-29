@@ -28,3 +28,5 @@ Memorize the shortened name and type in the next command "xinput_calibrator --li
 ![](https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/Calibrator.png)
 
 There you can see the id your pen is connected with, in this case 15.
+
+Now, what you need to do is tell your pen to only use the area of the drawing-tablet to move the mouse across.
