@@ -36,3 +36,5 @@ The last step is now to do exactly that.
 Type in the command "xinput map-to-output {PEN_ID} {DISPLAY_NAME}"
 
 Since we have determined the displayname and the id of the pen, (DP-4 and 15), we can use them to pass them as arguments
+
+![](https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/map.png)
