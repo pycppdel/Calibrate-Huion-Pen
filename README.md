@@ -13,3 +13,4 @@ Firstly, open a terminal and type in the command "xrandr".
 
 This will probably look like this:
 
+![]("ol.png")
