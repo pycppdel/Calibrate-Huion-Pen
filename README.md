@@ -9,6 +9,8 @@ of both displays.
 
 Don't panic, there is an easy way to solve this. (Easy as in the linux kind of easy, meaning typing random commands in the shell)
 
+
+
 Firstly, open a terminal and type in the command "xrandr".
 
 This will probably look like this:
