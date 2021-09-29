@@ -1,5 +1,5 @@
 # Calibrate-Huion-Pen
-Tutorial on how to calibrate a Huion Pen
+Tutorial on how to calibrate a Huion Pen that is wrongly calibrated over two displays
 
 Finding the right way how to calibarte a huion pen has cost me much time and effort, and so I decided to make this tutorial
 
