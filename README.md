@@ -7,5 +7,5 @@ So, you're probably here because you plugged in your second tablet on hdmi or di
 but didn't manage to calibrate the pen correctly. This probably happened because two monitors were plugged in and now the tablet tries to span over the whole area 
 of both displays.
 
-Don't panic, there is an easy way to solve this. (Easy as in the linuxkind of easy, meaning typing random commands in the shell)
+Don't panic, there is an easy way to solve this. (Easy as in the linux kind of easy, meaning typing random commands in the shell)
 
