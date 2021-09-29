@@ -13,4 +13,4 @@ Firstly, open a terminal and type in the command "xrandr".
 
 This will probably look like this:
 
-![]("https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/ol.png")
+![](https://github.com/pycppdel/Calibrate-Huion-Pen/blob/master/ol.png)
